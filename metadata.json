@@ -1,0 +1,7 @@
+{
+  "name": "Health Hub",
+  "description": "A comprehensive healthcare platform offering specialized Ayurvedic and Modern Medicine AI consultations and real-time doctor booking based on your symptoms and location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
