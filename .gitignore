@@ -1,0 +1,19 @@
+
+# Temp folders
+temp-health-hub/
+temp-repo/
+%TEMP%/
+
+# Archives
+*.zip
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# React source files (not needed for production)
+App.tsx
+components_*.tsx
+services_*.ts
+main.zip
+repo_files.txt
